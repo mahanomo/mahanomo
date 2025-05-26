@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahanomo
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning django advance in maktabkhooneh
+- 🌱 I’m currently codding ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: mahan.mirdar1381@gmail.com
 - 😄 Pronouns: bear
